@@ -1,0 +1,13 @@
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\obj\Debug\MVassign3b.csprojResolveAssemblyReference.cache
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\obj\Debug\MainWindow.baml
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\obj\Debug\MainWindow.g.cs
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\obj\Debug\App.g.cs
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\obj\Debug\MVassign3b_MarkupCompile.cache
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\obj\Debug\MVassign3b.g.resources
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\obj\Debug\MVassign3b.Properties.Resources.resources
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\obj\Debug\MVassign3b.csproj.GenerateResource.Cache
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\bin\Debug\MVassign3b.exe.config
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\bin\Debug\MVassign3b.exe
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\bin\Debug\MVassign3b.pdb
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\obj\Debug\MVassign3b.exe
+C:\Users\Matt\documents\visual studio 2013\Projects\MVassign3\MVassign3b\obj\Debug\MVassign3b.pdb

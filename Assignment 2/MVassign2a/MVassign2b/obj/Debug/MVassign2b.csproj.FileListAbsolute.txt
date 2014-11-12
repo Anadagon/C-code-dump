@@ -1,0 +1,13 @@
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\bin\Debug\MVassign2b.exe.config
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\bin\Debug\MVassign2b.exe
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\bin\Debug\MVassign2b.pdb
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\obj\Debug\MVassign2b.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\obj\Debug\MainWindow.baml
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\obj\Debug\MainWindow.g.cs
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\obj\Debug\App.g.cs
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\obj\Debug\MVassign2b_MarkupCompile.cache
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\obj\Debug\MVassign2b.g.resources
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\obj\Debug\MVassign2b.Properties.Resources.resources
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\obj\Debug\MVassign2b.csproj.GenerateResource.Cache
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\obj\Debug\MVassign2b.exe
+C:\Users\Matt\Documents\PROG1780\Assignment 2\MVassign2a\MVassign2b\obj\Debug\MVassign2b.pdb

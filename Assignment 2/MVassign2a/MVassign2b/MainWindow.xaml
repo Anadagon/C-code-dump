@@ -1,0 +1,15 @@
+﻿<Window x:Class="MVassign2b.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="integerTextBox" HorizontalAlignment="Left" Height="24" Margin="101,101,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="104"/>
+        <Button x:Name="btnIntegerInput" Content="Enter First Integer" HorizontalAlignment="Left" Margin="306,101,0,0" VerticalAlignment="Top" Width="170" Height="24" Click="FirstClick"/>
+        <TextBlock x:Name="errorTextBlock" HorizontalAlignment="Left" Margin="147,245,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="29" Width="206"/>
+        <TextBlock x:Name="instructionTextBlock" HorizontalAlignment="Left" Margin="101,23,0,0" TextWrapping="Wrap" Text="To begin, please enter an integer into the textbox below then click the enter integer button. Do this until you have entered three integers, then click Calculate." VerticalAlignment="Top" Height="54" Width="319"/>
+        <Button x:Name="btnCalculate" Content="Calculate" HorizontalAlignment="Left" Margin="306,146,0,0" VerticalAlignment="Top" Width="170" Height="24" Click="SecondClick"/>
+        <TextBox x:Name="meanTextBox" HorizontalAlignment="Left" Height="24" Margin="101,146,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="104"/>
+        <TextBox x:Name="largestTextBox" HorizontalAlignment="Left" Height="24" Margin="101,191,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="104"/>
+
+    </Grid>
+</Window>
