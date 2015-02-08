@@ -1,0 +1,18 @@
+G:\PROG1780\assignments\MVTLAssign5\MVTLAssign5\bin\Debug\MVTLAssign5.exe.config
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\bin\Debug\MVTLAssign5.exe.config
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\bin\Debug\MVTLAssign5.exe
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\bin\Debug\MVTLAssign5.pdb
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\MVTLAssign5.csprojResolveAssemblyReference.cache
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\MainWindow.baml
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\Window2.baml
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\MainWindow.g.cs
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\Window2.g.cs
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\App.g.cs
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\MVTLAssign5_MarkupCompile.cache
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\MVTLAssign5.g.resources
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\MVTLAssign5.Properties.Resources.resources
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\MVTLAssign5.csproj.GenerateResource.Cache
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\MVTLAssign5.exe
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\MVTLAssign5.pdb
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\Window3.baml
+G:\PROG1780\assignments\Assignment 5\MVTLAssign5\MVTLAssign5\obj\Debug\Window3.g.cs

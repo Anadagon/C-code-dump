@@ -1,0 +1,15 @@
+﻿<Window x:Class="MVTLAssign5.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window3" Height="300" Width="300">
+    <Grid>
+        <TextBox x:Name="infoCancelNameTextbox" HorizontalAlignment="Left" Height="25" Margin="63,55,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150"/>
+        <Label x:Name="infoCancelNameLabel" Content="Please enter your name:" HorizontalAlignment="Left" Height="27" Margin="63,23,0,0" VerticalAlignment="Top" Width="150"/>
+        <Button x:Name="infoCancelBtn" Content="Cancel Reservation" HorizontalAlignment="Left" Height="33" Margin="77,193,0,0" VerticalAlignment="Top" Width="123" Click="infoCancelClick"/>
+        <TextBox x:Name="infoCancelSeatTextbox" HorizontalAlignment="Left" Height="25" Margin="63,149,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150"/>
+        <Label x:Name="infoCancelSeatLabel" Content="Please enter your seat #:" HorizontalAlignment="Left" Height="27" Margin="63,117,0,0" VerticalAlignment="Top" Width="150"/>
+        <Label x:Name="orLabel" Content="or" HorizontalAlignment="Left" Margin="121,91,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="errorCancelLabel" Content="" HorizontalAlignment="Left" Margin="38,234,0,0" VerticalAlignment="Top" Width="196"/>
+
+    </Grid>
+</Window>

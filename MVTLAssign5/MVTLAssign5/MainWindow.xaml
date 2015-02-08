@@ -1,0 +1,28 @@
+﻿<Window x:Class="MVTLAssign5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="389" Width="525">
+    <Grid Margin="0,0,0,-5">
+        <Button x:Name="btn1A" Content="Seat 1A" HorizontalAlignment="Left" Margin="25,52,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="Btn1AClick"/>
+        <Button x:Name="btn2A" Content="Seat 2A" HorizontalAlignment="Left" Margin="25,98,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="Btn2AClick"/>
+        <Button x:Name="btn1B" Content="Seat 1B" HorizontalAlignment="Left" Margin="131,52,0,0" VerticalAlignment="Top" Width="108" Height="37" Click="Btn1BClick"/>
+        <Button x:Name="btn1C" Content="Seat 1C" HorizontalAlignment="Left" Margin="239,52,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="Btn1CClick"/>
+        <Button x:Name="btn2B" Content="Seat 2B" HorizontalAlignment="Left" Margin="131,98,0,0" VerticalAlignment="Top" Width="108" Height="37" Click="Btn2BClick"/>
+        <Button x:Name="btn2C" Content="Seat 2C" HorizontalAlignment="Left" Margin="239,98,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="Btn2CClick"/>
+        <Button x:Name="btn3A" Content="Seat 3A" HorizontalAlignment="Left" Margin="25,144,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="Btn3AClick"/>
+        <Button x:Name="btn3B" Content="Seat 3B" HorizontalAlignment="Left" Margin="131,144,0,0" VerticalAlignment="Top" Width="108" Height="37" Click="Btn3BClick"/>
+        <Button x:Name="btn3C" Content="Seat 3C" HorizontalAlignment="Left" Margin="239,144,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="Btn3CClick"/>
+        <Button x:Name="btn4A" Content="Seat 4A" HorizontalAlignment="Left" Margin="25,190,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="Btn4AClick"/>
+        <Button x:Name="btn4B" Content="Seat 4B" HorizontalAlignment="Left" Margin="131,190,0,0" VerticalAlignment="Top" Width="108" Height="37" Click="Btn4BClick"/>
+        <Button x:Name="btn4C" Content="Seat 4C" HorizontalAlignment="Left" Margin="239,190,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="Btn4CClick"/>
+        <Button x:Name="btn5A" Content="Seat 5A" HorizontalAlignment="Left" Margin="25,236,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="Btn5AClick"/>
+        <Button x:Name="btn5B" Content="Seat 5B" HorizontalAlignment="Left" Margin="131,236,0,0" VerticalAlignment="Top" Width="108" Height="37" Click="Btn5BClick"/>
+        <Button x:Name="btn5C" Content="Seat 5C" HorizontalAlignment="Left" Margin="239,236,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="Btn5CClick"/>
+        <TextBlock x:Name="waitingListBox" HorizontalAlignment="Left" Margin="368,15,0,0" TextWrapping="Wrap" Text="Waiting List" VerticalAlignment="Top" Width="122" Height="22"/>
+        <Label x:Name="titleLabel" Content="MVTL Airlines" HorizontalAlignment="Left" Margin="40,10,0,0" VerticalAlignment="Top" Width="178"/>
+        <Button x:Name="btnWaitingList" Content="Add into Waiting List" HorizontalAlignment="Left" Margin="368,299,0,0" VerticalAlignment="Top" Width="122" Height="37" Click="BtnWaitingListClick" IsEnabled="False"/>
+        <Button x:Name="btnCancel" Content="Cancel a Reservation" HorizontalAlignment="Left" Margin="25,299,0,0" VerticalAlignment="Top" Width="320" Height="39" Click="BtnCancelClick"/>
+        <TextBox x:Name="waitListTextBox" HorizontalAlignment="Left" Height="221" Margin="368,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="114"/>
+
+    </Grid>
+</Window>
